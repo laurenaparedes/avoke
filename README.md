@@ -1,4 +1,4 @@
-# 101-4-MyTeam.IsBetterThanYours-true
+# 101-4-MyTeam.IsBetterThanYours=true
 
 
 
