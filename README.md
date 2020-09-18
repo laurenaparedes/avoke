@@ -1,6 +1,4 @@
 # 101-4-MyTeam.IsBetterThanYours=true
-
-
 =======
 Hello
 Project Team Members:
@@ -10,5 +8,4 @@ Giuliano Costa
 Lauren Paredes
 Carlos Bueno
 Muluken Chekilie
->>>>>>> master
 This group is cool
