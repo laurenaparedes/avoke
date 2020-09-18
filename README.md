@@ -4,7 +4,6 @@
 =======
 Hello
 Project Team Members:
-<<<<<<< HEAD
 Carlos Bueno
 Lauren review
 =======
@@ -14,5 +13,4 @@ Giuliano Costa
 Lauren Paredes
 Carlos Bueno
 Muluken Chekilie
->>>>>>> master
 This group is cool
