@@ -1,4 +1,8 @@
 # 101-4-MyTeam.IsBetterThanYours=true
+
+
+=======
+Hello
 Project Team Members:
 <<<<<<< HEAD
 Carlos Bueno
@@ -10,4 +14,5 @@ Giuliano Costa
 Lauren Paredes
 Carlos Bueno
 Muluken Chekilie
+>>>>>>> master
 This group is cool
