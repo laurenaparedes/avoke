@@ -1,7 +1,5 @@
 # 101-4-MyTeam.IsBetterThanYours=true
-Zixuan Ni
-Kate Reynolds
-Giuliano Costa
-Lauren Paredes
-
+Project Team Members:
+Carlos Bueno
+Lauren review
 This group is cool
