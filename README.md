@@ -3,7 +3,6 @@ Hello
 Project Team Members:
 Carlos Bueno
 Lauren review
-=======
 Zixuan Ni | That's me
 Kate Reynolds
 Giuliano Costa
