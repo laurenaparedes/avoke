@@ -1,5 +1,4 @@
 # 101-4-MyTeam.IsBetterThanYours=true
-=======
 Hello
 Project Team Members:
 Carlos Bueno
