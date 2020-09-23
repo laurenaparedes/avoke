@@ -1,14 +1,10 @@
 # 101-4-MyTeam.IsBetterThanYours=true
-<<<<<<< HEAD
-## Team Members
+ Team Members
 Zixuan Ni
-=======
-<<<<<<< HEAD
 Project Team Members:
 
 Zixuan Ni
-=======
->>>>>>> Giuliano
+Giuliano
 lauren add2
 
 Hello
