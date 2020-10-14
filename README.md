@@ -7,15 +7,6 @@ Zixuan Ni
 Giuliano
 lauren add2
 
-Project Team Members:
-
-Zixuan Ni
-
-Team Members
-Zixuan Ni
-
-
-
 
 Hello
 Project Team Members:
